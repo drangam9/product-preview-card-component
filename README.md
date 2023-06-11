@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Product Preview Card]https://drangam9.github.io/product-preview-card-component/
+- Live Site URL: [Product Preview Card](https://drangam9.github.io/product-preview-card-component/)
 
 ## My process
 
