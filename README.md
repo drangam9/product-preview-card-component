@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/product-preview-component-with-html-and-css-WknV5T35x8)
 - Live Site URL: [Product Preview Card](https://drangam9.github.io/product-preview-card-component/)
 
 ## My process
